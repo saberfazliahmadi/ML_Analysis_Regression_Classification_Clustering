@@ -46,7 +46,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn kneed
 ---
 
 ## Demo
-*(Add a screenshot or diagram of the workflow here to visualize your analysis pipeline.)*
+*(i will add a screenshot or diagram of the workflow here to visualize my analysis pipeline.)*
 
 ---
 
