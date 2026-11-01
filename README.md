@@ -1,4 +1,9 @@
 # ML Analysis: Regression, Classification, and Clustering
+
+<p align="center">
+  <img src="https://github.com/saberfazliahmadi/ML_Analysis_Regression_Classification_Clustering/blob/main/images/Smart_Laboratory_ML_Blueprint_Logo.png" alt="Smart_Laboratory_ML_Blueprint_Logo" width="1000" />
+</p>
+
 <p align="center">
   <img src="images/Smart_Laboratory_ML_Blueprint_-_Slide_2.png" alt="Smart Laboratory ML Blueprint Slide 2" width="1000" />
 </p>
