@@ -1,6 +1,10 @@
 # ML Analysis: Regression, Classification, and Clustering
 
-This repository contains a complete machine learning analysis of a tabular dataset, focusing on model comparison, selection, and unsupervised learning. The project evaluates multiple regression and classification models, tunes hyperparameters, and applies clustering methods to uncover patterns in the data.
+<p align="center">
+  <img src="images/Machine_Learning_Pipeline_Infographic.png" alt="Machine Learning Pipeline Infographic" width="1000" />
+</p>
+
+This repository contains a complete machine learning analysis of a tabular dataset, focusing on model comparison, selection, and unsupervised learning. The project evaluates multiple regression and[...]
 
 The work is implemented in Python and is designed as a practical, educational workflow for classical machine learning.
 
@@ -37,7 +41,7 @@ The repository includes a preprocessed dataset in:
 
 - `data/preprocessed_dataset.csv`
 
-The dataset is a structured tabular dataset with a target column named `Class`. Based on the notebook output, it includes many encoded categorical variables and numerical launch-related attributes, such as:
+The dataset is a structured tabular dataset with a target column named `Class`. Based on the notebook output, it includes many encoded categorical variables and numerical launch-related attributes[...]
 
 - `PayloadMass`
 - `Flights`
@@ -205,4 +209,4 @@ GitHub: https://github.com/saberfazliahmadi
 
 ---
 
-This repository demonstrates a practical machine learning workflow focused on regression, classification, and clustering, highlighting model comparison, tuning, and interpretation in a clear and educational way.
+This repository demonstrates a practical machine learning workflow focused on regression, classification, and clustering, highlighting model comparison, tuning, and interpretation in a clear and [...]
