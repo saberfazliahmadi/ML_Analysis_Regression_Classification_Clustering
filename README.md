@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="images/End-to-End_Machine_Learning_Pipeline.png" alt="End-to-End Machine Learning Pipeline" width="1000" />
+  <img src="https://github.com/saberfazliahmadi/ML_Analysis_Regression_Classification_Clustering/blob/main/images/End-to-End_Machine_Learning_Pipeline.png" alt="End-to-End Machine Learning Pipeline" width="1000" />
 </p>
 
 <p align="center">
