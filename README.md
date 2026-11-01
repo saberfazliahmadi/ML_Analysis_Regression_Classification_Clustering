@@ -8,6 +8,10 @@
   <img src="images/Smart_Laboratory_ML_Blueprint_-_Slide_2.png" alt="Smart Laboratory ML Blueprint Slide 2" width="1000" />
 </p>
 
+<p align="center">
+  <img src="images/End-to-End_Machine_Learning_Pipeline.png" alt="End-to-End Machine Learning Pipeline" width="1000" />
+</p>
+
 This repository contains a complete machine learning analysis of a tabular dataset, focusing on model comparison, selection, and unsupervised learning. The project evaluates multiple regression and[...]
 
 The work is implemented in Python and is designed as a practical, educational workflow for classical machine learning.
