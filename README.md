@@ -1,4 +1,7 @@
 # ML Analysis: Regression, Classification, and Clustering
+<p align="center">
+  <img src="images/Smart_Laboratory_ML_Blueprint_-_Slide_2.png" alt="Smart Laboratory ML Blueprint Slide 2" width="1000" />
+</p>
 
 <p align="center">
   <img src="images/End-to-End_Machine_Learning_Pipeline.png" alt="End-to-End Machine Learning Pipeline" width="1000" />
@@ -7,12 +10,6 @@
 <p align="center">
   <img src="images/Machine_Learning_Pipeline_Infographic.png" alt="Machine Learning Pipeline Infographic" width="1000" />
 </p>
-
-<p align="center">
-  <img src="images/Smart_Laboratory_ML_Blueprint_-_Slide_2.png" alt="Smart Laboratory ML Blueprint Slide 2" width="1000" />
-</p>
-
-
 
 This repository contains a complete machine learning analysis of a tabular dataset, focusing on model comparison, selection, and unsupervised learning. The project evaluates multiple regression and[...]
 
